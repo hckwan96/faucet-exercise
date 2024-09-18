@@ -1,2 +1,3 @@
 # faucet-exercise
- faucet-exercise
+
+Alchemy faucet exercise - testing scripts
